@@ -6,3 +6,7 @@ Hello, I am performing a collaboration with my dear friend Joseph
 UW is the best
 
 ACCTG 215 is really good, the teacher is amazing in that class
+
+Accounting is the worst
+
+Changes were made.
